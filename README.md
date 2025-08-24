@@ -1,4 +1,4 @@
-# 🎬 Scene Switcher Pro
+# 🎬 Screen Switcher – Fast Scene Navigation
 
 Screen Switcher – Fast Scene Navigation is a lightweight but powerful Unity Editor extension that makes switching between scenes faster, easier, and more colorful.
 
