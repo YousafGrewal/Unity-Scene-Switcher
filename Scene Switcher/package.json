@@ -1,0 +1,24 @@
+{
+  "name": "com.vectorviral.sceneswitcher",
+  "displayName": "Screen Switcher – Fast Scene Navigation Tool",
+  "version": "1.0.0",
+  "unity": "2019.4",
+  "description": "Scene Switcher Fast Scene Navigation Tool is a Unity Editor extension designed to supercharge your workflow. Quickly switch between Build Settings scenes or all project scenes, with colorful UI tabs, auto-refresh, smart save prompts, and one-click scene locating. Includes a friendly welcome window for first-time users. Perfect for teams and solo devs working on multi-scene projects.",
+  "keywords": [
+    "scene",
+    "switcher",
+    "scene switch",
+    "scene management",
+    "editor-tool",
+    "workflow",
+    "productivity",
+    "unity",
+    "level"
+  ],
+  "author": {
+    "name": "Vector Viral",
+    "email": "vectorviralgames@gmail.com",
+    "url": "https://github.com/yousafgrewal"
+  },
+  "license": "Apache 2.0"
+}
