@@ -18,4 +18,4 @@ No more manually searching for scenes – just click and jump instantly.
 ### Option 1: Unity Package Manager (UPM)  
 Add this line to your project's `Packages/manifest.json`:
 ```json
-"com.vectorviral.screenswitcher": "https://github.com/yourname/screenswitcher.git"
+"com.yousafgrewal.screenswitcher": "https://github.com/yourname/screenswitcher.git"
